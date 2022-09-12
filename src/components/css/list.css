@@ -1,0 +1,31 @@
+
+.list{
+    width:55%;
+    border: 1px solid #fff;
+    border-radius: 8px;
+    float:right;
+    margin-right: 20px;
+    margin-top: 20px;
+}
+.list h2{
+    color:#fff;
+
+}
+.list li{
+    color:#fff;
+    margin-bottom:10px;   
+}
+.list span{
+    margin-right:50px;
+    font-size:1.5em;
+}
+#delete,#modify{
+    margin-right:10px;
+}
+button{
+    background-color:#fff;
+    border:1px solid #003366;
+    border-radius:6px;
+    padding:3px 10px;
+    cursor:pointer;
+}
